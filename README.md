@@ -40,14 +40,10 @@ A simple and intuitive **machine learning web application** that predicts the fa
 git clone https://github.com/your-username/car-price-prediction-app.git
 cd car-price-prediction-app
 2️⃣ Install the required packages
-bash
-Copy
-Edit
+
 pip install -r requirements.txt
 3️⃣ Run the Streamlit app
-bash
-Copy
-Edit
+
 streamlit run app.py
 📂 Files Included
 File Name	Description
@@ -92,10 +88,6 @@ numpy
 pickle
 
 Create a requirements.txt:
-
-txt
-Copy
-Edit
 streamlit
 pandas
 scikit-learn
