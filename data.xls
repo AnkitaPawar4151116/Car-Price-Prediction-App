@@ -1,4 +1,4 @@
-name,company,year,Price,kms_driven,fuel_type
+name,Car_company,year,Price,kms_driven,fuel_type
 Hyundai Santro Xing XO eRLX Euro III,Hyundai,2007,"80,000","45,000 kms",Petrol
 Mahindra Jeep CL550 MDI,Mahindra,2006,"4,25,000",40 kms,Diesel
 Maruti Suzuki Alto 800 Vxi,Maruti,2018,Ask For Price,"22,000 kms",Petrol
